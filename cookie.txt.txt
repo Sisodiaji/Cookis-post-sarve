@@ -1,0 +1,1 @@
+datr=vPfFZqgzOrXKI67pp-hYmSwc; sb=vPfFZk4reKLwULNQFMgVjv72; m_pixel_ratio=1.75; wd=412x828; c_user=100009520512721; fr=0FNjwXAiZC28FOXQe.AWWG9bVcqEKsUdYv27nXxu4_iRc.Bmxfe8..AAA.0.0.BmxxNo.AWUFX9J-Gfs; xs=44%3AC7AdO2vZWWcJjg%3A2%3A1724322665%3A-1%3A7931; locale=en_GB; wl_cbv=v2%3Bclient_version%3A2600%3Btimestamp%3A1724322673; fbl_st=100637318%3BT%3A28738711; vpd=v1%3B828x412x1.75
